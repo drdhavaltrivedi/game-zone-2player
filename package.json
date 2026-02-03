@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/game-zone-2player.git"
+    "url": "https://github.com/drdhavaltrivedi/game-zone-2player.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/game-zone-2player/issues"
+    "url": "https://github.com/drdhavaltrivedi/game-zone-2player/issues"
   },
-  "homepage": "https://github.com/yourusername/game-zone-2player#readme",
+  "homepage": "https://github.com/drdhavaltrivedi/game-zone-2player#readme",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",

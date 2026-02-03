@@ -1,12 +1,12 @@
 # 🎮 Game Zone - 2 Player Games
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web-blue)](https://github.com/yourusername/game-zone-2player)
-[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/yourusername/game-zone-2player/releases)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web-blue)](https://github.com/drdhavaltrivedi/game-zone-2player)
+[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/drdhavaltrivedi/game-zone-2player/releases)
 
 A stunning collection of classic 2-player offline games for mobile and web, built with React Native and Expo.
 
-[**🌐 Play on Web**](https://your-vercel-url.vercel.app) | [**📱 Download on Play Store**](https://play.google.com/store/apps/details?id=com.gamezone.twoplayergames) | [**📖 Deployment Guide**](DEPLOYMENT.md)
+[**🌐 Play on Web**](https://game-zone-2player.vercel.app) | [**📱 Download on Play Store**](https://play.google.com/store/apps/details?id=com.gamezone.twoplayergames) | [**📖 Deployment Guide**](DEPLOYMENT.md)
 
 ---
 
@@ -57,7 +57,7 @@ Take turns drawing lines between dots. Complete a box to claim it and earn a poi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/game-zone-2player.git
+git clone https://github.com/drdhavaltrivedi/game-zone-2player.git
 cd game-zone-2player
 ```
 
@@ -156,9 +156,9 @@ game-zone-2player/
 
 This app is deployed on:
 
-- **🌐 Web:** [Vercel](https://your-vercel-url.vercel.app)
+- **🌐 Web:** [Vercel](https://game-zone-2player.vercel.app)
 - **📱 Android:** [Google Play Store](https://play.google.com/store/apps/details?id=com.gamezone.twoplayergames)
-- **📦 Source Code:** [GitHub](https://github.com/yourusername/game-zone-2player)
+- **📦 Source Code:** [GitHub](https://github.com/drdhavaltrivedi/game-zone-2player)
 
 For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or support:
 
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/game-zone-2player/issues)
+- **GitHub Issues:** [Create an issue](https://github.com/drdhavaltrivedi/game-zone-2player/issues)
 - **Email:** your-email@example.com
 
 ---
@@ -205,6 +205,6 @@ For questions, suggestions, or support:
 
 ⭐ Star this repo if you found it helpful!
 
-[Report Bug](https://github.com/yourusername/game-zone-2player/issues) • [Request Feature](https://github.com/yourusername/game-zone-2player/issues)
+[Report Bug](https://github.com/drdhavaltrivedi/game-zone-2player/issues) • [Request Feature](https://github.com/drdhavaltrivedi/game-zone-2player/issues)
 
 </div>
