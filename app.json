@@ -43,7 +43,7 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro",
-      "output": "static",
+      "output": "single",
       "lang": "en",
       "name": "Game Zone - 2 Player Games",
       "shortName": "Game Zone",
