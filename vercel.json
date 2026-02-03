@@ -1,22 +1,13 @@
 {
   "version": 2,
   "name": "game-zone-2player",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
       "dest": "/$1"
     }
   ],
-  "buildCommand": "npx expo export:web",
+  "buildCommand": "expo export --platform web && cp public/privacy-policy.html dist/privacy-policy.html",
   "outputDirectory": "dist",
   "framework": null,
   "devCommand": "expo start --web"
