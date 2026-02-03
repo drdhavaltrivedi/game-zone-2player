@@ -195,7 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or support:
 
 - **GitHub Issues:** [Create an issue](https://github.com/drdhavaltrivedi/game-zone-2player/issues)
-- **Email:** your-email@example.com
+- **Email:** drdhavaltrivedi5@gmail.com
+
 
 ---
 

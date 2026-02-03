@@ -29,7 +29,7 @@
       }
     },
     "android": {
-      "package": "com.gamezone.twoplayergames",
+      "package": "com.dhaval.twoplayergames",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -62,8 +62,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "[your-project-id]"
+        "projectId": "b8f300ea-e3d9-4d97-816c-ff5da1951780"
       }
-    }
+    },
+    "owner": "dhaval29"
   }
 }

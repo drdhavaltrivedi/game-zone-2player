@@ -163,7 +163,7 @@ Everyone (3+)
 
 ### Privacy Policy URL
 ```
-https://your-website.com/privacy-policy
+https://game-zone-2player.vercel.app/privacy-policy.html
 ```
 *Note: Create a privacy policy using [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/)*
 
